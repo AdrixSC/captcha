@@ -1,0 +1,34 @@
+h2 {
+    color: #39157e;
+    font-family: sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+a {
+    color: rgb(26, 7, 136);
+}
+
+#mainCaptcha {
+    font-size: 50px;
+    height: 100px;
+    margin-left: 10px;
+    text-align: center;
+    width: 410px;
+}
+
+#txtInput {
+    background-color: #FFEB3B;
+    font-size: 20px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+.designContainer {
+    background-color: #d69212;
+    margin: 20px 435px;
+    padding: 20px 20px;
+}
